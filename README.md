@@ -1,7 +1,7 @@
 # 8086-Show-Real-Time
 
 
-Exercise of Low Level Programming with 8086 Assembly Lecture, implemented with Emu8086.
+Exercise of Low Level Programming with 8085 Assembly Lecture, implemented with Emu8086.
 In general, Emu8086 is easier to use, write code and test program. 
 
 
