@@ -1,4 +1,4 @@
-# 8086-Show-Real-Time
+# 8085 exercise no.1
 
 
 Exercise of Low Level Programming with 8085 Assembly Lecture, implemented with Emu8086.
